@@ -1,6 +1,6 @@
-# MechasCar_Statistical_Analysis
+# MechasCar_Statistical_Analysis- Creating statistical tests with R
 
-## Linear Regression to Predict MPG
+## Linear Regression to Predict MPG 
 
 ![Deliverable 1](Resources/deliverable_1.png)
 
