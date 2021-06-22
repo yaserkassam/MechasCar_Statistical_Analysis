@@ -1,5 +1,7 @@
 # MechasCar_Statistical_Analysis- Creating statistical tests with R
 
+This project using R we created tables and statistical tests. We see if there is any significance in the different lots suspension coil vs the population mean.
+
 ## Linear Regression to Predict MPG 
 
 ![Deliverable 1](Resources/deliverable_1.png)
